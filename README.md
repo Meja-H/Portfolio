@@ -1,4 +1,4 @@
-# Profolio
+# Portfolio
 
 My digital portfolio for the 2017 Dev.Catalyst competition.
 
